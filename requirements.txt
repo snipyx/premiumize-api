@@ -1,0 +1,4 @@
+pretty-simple-namespace==0.1.1
+python-decouple==3.4
+pytest==6.2.1
+requests==2.25.1
